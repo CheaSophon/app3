@@ -126,7 +126,8 @@ header .shadow #searchicon{
     background: url(char1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center left;
+    background-position: center;
+    background-position:right;
 }
 .home-text{
     padding-left: 100px;
