@@ -123,7 +123,7 @@ header .shadow #searchicon{
     min-height: 600px;
     display: flex;
     align-items: center;
-    background: url(img/char1.jpg);
+    background: url(char1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center left;
